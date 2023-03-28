@@ -17,6 +17,13 @@ namespace Mongo.CasoDeUso.CasosDeUso
             return await _repositorioEntrenador.AgregarEntrenadorAsync(entrenador);
         }
 
+
+        public async Task<ActualizarEntrenador> ActualizarEntrenador(ActualizarEntrenador entrenador)
+        {
+            return await _repositorioEntrenador.ActualizarEntrenadorAsync(entrenador);
+
+        }
+
         public async Task<List<Entrenador>> ObtenerEntrenadores()
         {
             return await _repositorioEntrenador.ObtenerEntrenadoresAsync();

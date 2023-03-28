@@ -10,7 +10,11 @@ namespace Api.Mongo.AutoMapper
         public ConfigurationProfile()
         {
             CreateMap<AgregarEntrenador, Entrenador>().ReverseMap();
+            CreateMap<ActualizarEntrenador, Entrenador>().ReverseMap();
+
             CreateMap<EntrenadorMongo, Entrenador>().ReverseMap();
+            CreateMap<EntrenadorMongo, ActualizarEntrenador>().ReverseMap();
+
             CreateMap<AgregarJugador, Jugador>().ReverseMap();
             CreateMap<AgregarEquipo, Equipo>().ReverseMap();
         }

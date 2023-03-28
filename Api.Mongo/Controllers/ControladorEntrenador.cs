@@ -30,5 +30,11 @@ namespace Api.Mongo.Controllers
         {
             return await _entrenadorCasoDeUso.AgregarEntrenador(_mapper.Map<Entrenador>(comando));
         }
+
+        [HttpPatch]
+        public async Task<ActualizarEntrenador> ActualizarEntrenador([FromBody] ActualizarEntrenador comando)
+        {
+            return await _entrenadorCasoDeUso.ActualizarEntrenador(comando);
+        }
     }
 }

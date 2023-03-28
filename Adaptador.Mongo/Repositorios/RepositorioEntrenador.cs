@@ -32,12 +32,21 @@ namespace Adaptador.Mongo.Repositorios
             return _mapper.Map<AgregarEntrenador>(entrenador);
         }
 
+        public async Task<ActualizarEntrenador> ActualizarEntrenadorAsync(ActualizarEntrenador entrenador)
+        {
+            var entrenadorActualizar = _mapper.Map<EntrenadorMongo>(entrenador);
+            var entrenadorActualizado = await coleccion.FindOneAndReplaceAsync(x => x.Id_Mongo == entrenador.Id_Mongo, entrenadorActualizar);
+            return _mapper.Map<ActualizarEntrenador>(entrenadorActualizado);
+        }
+
         public async Task<List<Entrenador>> ObtenerEntrenadoresAsync()
         {
             var entrenadores = await coleccion.FindAsync(Builders<EntrenadorMongo>.Filter.Empty);
             var listaEntrenadores = entrenadores.ToEnumerable().Select(x => _mapper.Map<Entrenador>(x)).ToList();
             return listaEntrenadores;
         }
+
+
 
         public Task<Entrenador> ObtenerEntrenadorPorIdAsync(int id)
         {
