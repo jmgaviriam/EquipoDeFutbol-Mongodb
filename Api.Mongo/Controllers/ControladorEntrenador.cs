@@ -36,5 +36,14 @@ namespace Api.Mongo.Controllers
         {
             return await _entrenadorCasoDeUso.ActualizarEntrenador(comando);
         }
+
+        [HttpDelete("{id}")]
+        public async Task<string> EliminarEntrenador(string id)
+        {
+            return await _entrenadorCasoDeUso.EliminarEntrenador(id);
+        }
+
+
+
     }
 }

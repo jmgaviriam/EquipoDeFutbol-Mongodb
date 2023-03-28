@@ -9,5 +9,6 @@ namespace Mongo.CasoDeUso.ViasDeAcceso
         Task<Entrenador> ObtenerEntrenadorPorId(int id);
         Task<AgregarEntrenador> AgregarEntrenador(Entrenador entrenador);
         Task<ActualizarEntrenador> ActualizarEntrenador(ActualizarEntrenador entrenador);
+        Task<string> EliminarEntrenador(string id);
     }
 }

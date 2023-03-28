@@ -36,6 +36,10 @@ namespace Adaptador.Mongo.Repositorios
         {
             var entrenadorActualizar = _mapper.Map<EntrenadorMongo>(entrenador);
             var entrenadorActualizado = await coleccion.FindOneAndReplaceAsync(x => x.Id_Mongo == entrenador.Id_Mongo, entrenadorActualizar);
+            if (entrenadorActualizado == null)
+            {
+                throw new Exception($"No se encontró ningún entrenador con el ID '{entrenador.Id_Mongo}'");
+            }
             return _mapper.Map<ActualizarEntrenador>(entrenadorActualizado);
         }
 
@@ -46,6 +50,18 @@ namespace Adaptador.Mongo.Repositorios
             return listaEntrenadores;
         }
 
+        public async Task<string> EliminarEntrenadorAsync(string id)
+        {
+            var entrenadores = await coleccion.DeleteOneAsync(x => x.Id_Mongo == id);
+            if (entrenadores.DeletedCount.Equals(1))
+            {
+                return $"Entrenador con Id_Mongo: {id} eliminado correctamente";
+            }
+            else
+            {
+                return $"Entrenador con Id_Mongo: {id} no encontrado";
+            }
+        }
 
 
         public Task<Entrenador> ObtenerEntrenadorPorIdAsync(int id)

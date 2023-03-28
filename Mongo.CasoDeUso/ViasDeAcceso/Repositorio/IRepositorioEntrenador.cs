@@ -9,5 +9,6 @@ namespace Mongo.CasoDeUso.ViasDeAcceso.Repositorio
         Task<ActualizarEntrenador> ActualizarEntrenadorAsync(ActualizarEntrenador entrenador);
         Task<List<Entrenador>> ObtenerEntrenadoresAsync();
         Task<Entrenador> ObtenerEntrenadorPorIdAsync(int id);
+        Task<string> EliminarEntrenadorAsync(string id);
     }
 }

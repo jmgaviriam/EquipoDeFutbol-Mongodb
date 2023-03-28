@@ -30,6 +30,11 @@ namespace Mongo.CasoDeUso.CasosDeUso
         }
 
 
+        public async Task<string> EliminarEntrenador(string id)
+        {
+            return await _repositorioEntrenador.EliminarEntrenadorAsync(id);
+        }
+
         public async Task<Entrenador> ObtenerEntrenadorPorId(int id)
         {
             return await _repositorioEntrenador.ObtenerEntrenadorPorIdAsync(id);
