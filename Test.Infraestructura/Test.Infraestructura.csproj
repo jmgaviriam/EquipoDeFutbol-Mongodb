@@ -30,8 +30,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Dapper.CasoDeUso\Dapper.CasoDeUso.csproj" />
-	  <ProjectReference Include="..\Dapper.Infraestructura\Dapper.Infraestructura.csproj" />
+	  <ProjectReference Include="..\Mongo.CasoDeUso\Mongo.CasoDeUso.csproj" />
 	</ItemGroup>
 
 </Project>

@@ -1,0 +1,15 @@
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\Mongo.CasoDeUso.csproj.AssemblyReference.cache
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\Mongo.CasoDeUso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\Mongo.CasoDeUso.AssemblyInfoInputs.cache
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\Mongo.CasoDeUso.AssemblyInfo.cs
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\Mongo.CasoDeUso.csproj.CoreCompileInputs.cache
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\bin\Debug\net6.0\Mongo.CasoDeUso.deps.json
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\bin\Debug\net6.0\Mongo.CasoDeUso.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\bin\Debug\net6.0\Mongo.CasoDeUso.pdb
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\bin\Debug\net6.0\Mongo.Dominio.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\bin\Debug\net6.0\Mongo.Dominio.pdb
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\Mongo.CasoDeUso.csproj.CopyComplete
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\Mongo.CasoDeUso.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\refint\Mongo.CasoDeUso.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\Mongo.CasoDeUso.pdb
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Mongo.CasoDeUso\obj\Debug\net6.0\ref\Mongo.CasoDeUso.dll

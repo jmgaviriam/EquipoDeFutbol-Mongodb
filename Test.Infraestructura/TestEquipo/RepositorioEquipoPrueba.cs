@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Dapper.CasoDeUso.ViasDeAcceso.Repositorio;
-using Dapper.Dominio.Comandos;
-using Dapper.Dominio.Entidades;
+using Mongodb.CasoDeUso.ViasDeAcceso.Repositorio;
+using Mongodb.Dominio.Comandos;
+using Mongodb.Dominio.Entidades;
 using Moq;
 
 namespace Test.Infraestructura.TestEquipo

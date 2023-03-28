@@ -1,0 +1,17 @@
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\bin\Debug\net6.0\Adaptador.Mongo.deps.json
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\bin\Debug\net6.0\Adaptador.Mongo.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\bin\Debug\net6.0\Adaptador.Mongo.pdb
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\bin\Debug\net6.0\Mongo.CasoDeUso.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\bin\Debug\net6.0\Mongo.Dominio.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\bin\Debug\net6.0\Mongo.CasoDeUso.pdb
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\bin\Debug\net6.0\Mongo.Dominio.pdb
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\Adaptador.Mongo.csproj.AssemblyReference.cache
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\Adaptador.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\Adaptador.Mongo.AssemblyInfoInputs.cache
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\Adaptador.Mongo.AssemblyInfo.cs
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\Adaptador.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\Adaptador.Mongo.csproj.CopyComplete
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\Adaptador.Mongo.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\refint\Adaptador.Mongo.dll
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\Adaptador.Mongo.pdb
+C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Adaptador.Mongo\obj\Debug\net6.0\ref\Adaptador.Mongo.dll

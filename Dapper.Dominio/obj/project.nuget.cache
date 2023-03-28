@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jh0GbRaldBO9EaPOzwIHtex0tyQ1w4GCZbuUjmBcAU5ZKxFcmoaP049UrNyLXEOiW8EcsIij0Ilz3mbwdrVv3w==",
+  "dgSpecHash": "kAx1NfPkNDqp5QTo/WU8rNFXN+j+1T4H8mOwEvlC8g05zpEUNVXmVpaqEhb+eHnXhtfAXTlHmhsSkLWNn57k/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\57318\\Desktop\\Liga Sofka\\DDD-BD-Dapper-PruebasUnitarias\\Semana8\\Proyecto-EquipoDeFutbol-Dapper\\EquipoDeFutbol\\Dapper.Dominio\\Dapper.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\57318\\Desktop\\Liga Sofka\\Programacion-Reactiva\\Semana9\\Mondodb\\EquipoDeFutbol-Mongodb\\Dapper.Dominio\\Mongodb.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

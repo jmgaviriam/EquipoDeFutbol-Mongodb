@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Test.Infraestructura
-build_property.ProjectDir = C:\Users\57318\Desktop\Liga Sofka\DDD-BD-Dapper-PruebasUnitarias\Semana8\Proyecto-EquipoDeFutbol-Dapper\EquipoDeFutbol\Test.Infraestructura\
+build_property.ProjectDir = C:\Users\57318\Desktop\Liga Sofka\Programacion-Reactiva\Semana9\Mondodb\EquipoDeFutbol-Mongodb\Test.Infraestructura\

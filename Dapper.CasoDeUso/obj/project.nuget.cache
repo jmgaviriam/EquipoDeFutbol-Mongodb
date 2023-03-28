@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Dnc+zQ3Z/4/3IoYAv4W7PR+9zPMUO2N+YMnpjvgdQWiufcAk300hxZB4wfympeI/43R94d2XBkgF20m3I1oozw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\57318\\Desktop\\Liga Sofka\\DDD-BD-Dapper-PruebasUnitarias\\Semana8\\Proyecto-EquipoDeFutbol-Dapper\\EquipoDeFutbol\\Dapper.CasoDeUso\\Dapper.CasoDeUso.csproj",
+  "dgSpecHash": "Yeac9q3Evn6FH/adoXbC7+/2im9mK97XDaPUhjGkIkrOdzPNtksh1A+flgl1X36IkPGY4VeODbkpZvGAtyzfXA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\57318\\Desktop\\Liga Sofka\\Programacion-Reactiva\\Semana9\\Mondodb\\EquipoDeFutbol-Mongodb\\Dapper.CasoDeUso\\Mongodb.CasoDeUso.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\57318\\Desktop\\Liga Sofka\\Programacion-Reactiva\\Semana9\\Mondodb\\EquipoDeFutbol-Mongodb\\Mongodb.Dominio\\Mongodb.Dominio.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\57318\\Desktop\\Liga Sofka\\Programacion-Reactiva\\Semana9\\Mondodb\\EquipoDeFutbol-Mongodb\\Mongodb.Dominio\\Mongodb.Dominio.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

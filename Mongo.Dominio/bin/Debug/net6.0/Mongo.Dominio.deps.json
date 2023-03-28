@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mongo.Dominio/1.0.0": {
+        "runtime": {
+          "Mongo.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mongo.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

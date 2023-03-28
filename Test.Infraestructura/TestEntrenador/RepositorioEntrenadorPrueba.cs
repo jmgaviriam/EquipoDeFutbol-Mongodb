@@ -5,11 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Dapper;
-using Dapper.CasoDeUso.ViasDeAcceso.Repositorio;
 using Dapper.Dominio.Comandos;
-using Dapper.Dominio.Entidades;
 using Dapper.Infraestructura;
 using Dapper.Infraestructura.ViasDeAcceso;
+using Mongodb.CasoDeUso.ViasDeAcceso.Repositorio;
+using Mongodb.Dominio.Entidades;
 using Moq;
 
 namespace Test.Infraestructura.TestEntrenador
